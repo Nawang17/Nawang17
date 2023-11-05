@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nawang
 ==============================================================================================================================
 
-I am a college student with a passion for web development. I am currently learning full-stack development and have experience in building web applications. Feel free to reach out if you have any cool projects in mind as I am always looking to improve my skills and learn new technologies.
+I am currently learning full-stack development and have experience in building web applications. Feel free to reach out if you have any cool projects in mind as I am always looking to improve my skills and learn new technologies.
 
 ### Skills
 
