@@ -1,4 +1,4 @@
-Hello! I am a college student interested in full stack development. Feel free to reach out if you have any cool projects in mind as I am always looking to improve my skills and learn new technologies.
+Hello! I am a college student interested in full stack development. Feel free to reach out if you have any cool projects in mind.
 
 ### Skills
 
